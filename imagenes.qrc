@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bobinadatos.png</file>
+        <file>formula.png</file>
+    </qresource>
+</RCC>
